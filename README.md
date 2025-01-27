@@ -15,9 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+![app_gif](/Users/aadityakhanal/Desktop/changeColor/Kapture 2025-01-27 at 05.46.38.gif)
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
