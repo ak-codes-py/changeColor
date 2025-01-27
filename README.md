@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![app_gif](/Users/aadityakhanal/Desktop/changeColor/Kapture 2025-01-27 at 05.46.38.gif)
+https://github.com/ak-codes-py/changeColor/blob/main/Kapture%202025-01-27%20at%2005.46.38.gif
 
 
 ## App Brainstorming (Step 4)
